@@ -1,0 +1,22 @@
+{
+    "name": "Core.Unity.Game",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:08b38f39e2d9e594389b7a4cf4c2c338",
+        "GUID:4f682e06dbb3e624faedad9cc27106cc",
+        "GUID:062c4fa958c9c374e96210ae0caae80a",
+        "GUID:33818cf898f14274ead0c6f6f57619ef",
+        "GUID:db0b4355c4d70924aad6fbfc24f0e7f2",
+        "GUID:b27c92c327441884ebc83629cb716c6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
